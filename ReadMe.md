@@ -127,6 +127,46 @@ This project demonstrates:
 
 \---
 
+### Excel Dashboard Visualizations
+
+#### Main Superstore Dataset Dashboard
+![Main Superstore Dataset](Excel%20Analysis/Dashboard%20Screenshots/Main%20Superstore%20Dataset.png)
+
+#### Monthly Sales Trend
+![Monthly Sales Trend](Excel%20Analysis/Dashboard%20Screenshots/Monthly%20Sales%20Trend.png)
+
+#### Profit by Category
+![Profit by Category](Excel%20Analysis/Dashboard%20Screenshots/Profit%20by%20Category.png)
+
+#### Profit by Region
+![Profit by Region](Excel%20Analysis/Dashboard%20Screenshots/Profit%20by%20Region.png)
+
+#### Revenue by Category
+![Revenue by Category](Excel%20Analysis/Dashboard%20Screenshots/Revenue%20by%20Category.png)
+
+#### Sales by Region
+![Sales by Region](Excel%20Analysis/Dashboard%20Screenshots/Sales%20by%20Region.png)
+
+#### Top 5 Products
+![Top 5 Products](Excel%20Analysis/Dashboard%20Screenshots/Top%205%20Products.png)
+
+#### Total Profit vs. Total Revenue
+![Total Profit vs Total Revenue](Excel%20Analysis/Dashboard%20Screenshots/Total%20Profit%20vs.%20Total%20Revenue.png)
+
+---
+
+### Power BI Dashboard Visualizations
+
+#### Executive Summary Dashboard
+![Executive Summary](PowerBI%20Visualization%20Report/PowerBI%20Dashboard%20Screenshots/Executive%20Summary.png)
+
+#### Regional Analysis Dashboard
+![Regional Analysis](PowerBI%20Visualization%20Report/PowerBI%20Dashboard%20Screenshots/Regional%20Analysis.png)
+
+#### Top 5 Products by Sales Dashboard
+![Top 5 Products by Sales](PowerBI%20Visualization%20Report/PowerBI%20Dashboard%20Screenshots/Top%205%20Products%20by%20Sales.png)
+
+
 ## Author
 
 **Pranjal Shinde**  
